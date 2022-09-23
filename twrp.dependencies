@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "darkraven123/kernel_xiaomi_veux",
+    "repository": "darkraven123/android_device_xiaomi_veux-kernel",
     "target_path": "kernel/xiaomi/veux",
     "revision": "main"
   }
